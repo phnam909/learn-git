@@ -1,2 +1,2 @@
 # learn-git
-hoc git ne
+hoc git
